@@ -1,5 +1,5 @@
 # jobs-board
-
+Practice vue-typescript setup
 ## Project setup
 ```
 npm install
